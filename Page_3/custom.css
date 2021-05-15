@@ -1,0 +1,11 @@
+.jumbotron-fluid {
+    justify-content: stretch;
+}
+
+.container {
+    align-items: stretch;
+}
+
+.row {
+    justify-content: space-evenly;
+}
