@@ -1,0 +1,38 @@
+ .column {
+  width: 100%;
+}
+
+.container {
+  align-items: stretch;
+}
+
+.card-img-top {
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.hidden {
+  display: none;
+}
+
+.form-inline {
+  align-items: flex-end;
+}
+
+.row {
+  justify-content: space-evenly;
+  padding: 0 10rem 0 10rem;
+}
+
+.jumbotron {
+  justify-content: stretch;
+}
+
+.jumbotron-fluid {
+  justify-content: stretch;
+}
+
+.topimage {
+  align-self: stretch;
+  justify-content: center;
+}
